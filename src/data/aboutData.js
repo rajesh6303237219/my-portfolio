@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Rajesh Bogadi. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name's Rajesh Bogadi, A passionate and skilled Full-Stack Developer with a knack for creating dynamic, responsive, and user-centric web applications.",
+    description2: "With expertise spanning both front-end and back-end technologies, I thrive at the intersection of design and functionality, crafting seamless digital experiences.With a strong foundation in modern frameworks, libraries, and tools, I am dedicated to delivering high-quality code that is efficient, scalable, and maintainable. My approach involves not just coding but solving real-world problems through innovative and optimized solutions..",
     image: 2
 }

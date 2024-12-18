@@ -35,7 +35,7 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Web Developer',
         icon: <BsCodeSlash />
     },
     {
@@ -60,7 +60,7 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
+        title: 'React Native',
         icon: <FaTabletAlt />
     },
     // {

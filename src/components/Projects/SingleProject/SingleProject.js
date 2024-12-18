@@ -48,8 +48,8 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                     >
                         {name}
                     </h2>
-                    <img src={image ? image : placeholder} alt={name} />
-                    <div className='project--showcaseBtn'>
+                    <img style={{borderRadius: 20}} src={image ? image : placeholder} alt={name} />
+                    {/* <div className='project--showcaseBtn'>
                         <a
                             href={demo}
                             target='_blank'
@@ -88,7 +88,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                                 aria-label='Code'
                             />
                         </a>
-                    </div>
+                    </div> */}
                 </div>
                 <p
                     className='project--desc'

@@ -4,7 +4,7 @@ import image from "../assets/image.jpg"
 export const headerData = {
     name: 'Rajesh',
     title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    desciption:"A passionate Full-Stack Developer skilled in building dynamic, user-focused web applications using modern technologies. With expertise in both front-end and back-end development, I turn ideas into seamless digital experiences.",
     image: image,
     resumePdf: resume
 }
